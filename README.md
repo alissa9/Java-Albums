@@ -1,3 +1,4 @@
+
 # Java-Albums
 Implemented a Java class to represent an album using a UML representation.
 
@@ -18,3 +19,13 @@ List albums.........1 Select album........2 Search titles.......3 Exit..........
 Enter choice:>
 
 The User can simply exit the program by entering zero. The three other menu options allow the User to inspect the information in the data set (note again that this program is entirely read-only and there is no requirement to add, update or delete any part of the data set). The necessary interaction of the program with respect to these options is illustrated in Appendix A. Note that console output should be neatly formatted, and some consideration will be given to formatting when the program is assessed. In particular, when the option to view a single trade company details is selected, it must result in the invocation of the toString() method for that particular Album object. You are encouraged to explore and utilise a StringBuilder object when implementing the toString() method for the Album class.
+
+option 1 :
+![list albums](https://user-images.githubusercontent.com/81979801/114888411-1cc8a700-9e01-11eb-9cf1-19805d682bac.PNG)
+
+option 2 :
+
+![select albums](https://user-images.githubusercontent.com/81979801/114888472-2ce08680-9e01-11eb-8ebd-6ed451cc4d68.PNG)
+
+option 3 :
+![search](https://user-images.githubusercontent.com/81979801/114888510-35d15800-9e01-11eb-904a-25f32bd99dac.PNG)
